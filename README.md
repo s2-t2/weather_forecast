@@ -1,2 +1,2 @@
-Application that tells the weather based on city name.
+Application that tells the weather based on city name. </br>
 API used: openweathermap
