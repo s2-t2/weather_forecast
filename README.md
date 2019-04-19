@@ -1,2 +1,1 @@
-Application that tells the weather based on city name. </br>
-API used: openweathermap
+#Web application that uses Openweathermap API to give the weather based information given the name of city
